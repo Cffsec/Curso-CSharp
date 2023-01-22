@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\bin\Debug\net6.0\Repetição While e Do While.exe
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\bin\Debug\net6.0\Repetição While e Do While.deps.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\bin\Debug\net6.0\Repetição While e Do While.runtimeconfig.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\bin\Debug\net6.0\Repetição While e Do While.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\bin\Debug\net6.0\Repetição While e Do While.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\refint\Repetição While e Do While.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\Repetição While e Do While.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição While e Do While\obj\Debug\net6.0\ref\Repetição While e Do While.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\bin\Debug\net6.0\Repetição for e foreach.exe
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\bin\Debug\net6.0\Repetição for e foreach.deps.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\bin\Debug\net6.0\Repetição for e foreach.runtimeconfig.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\bin\Debug\net6.0\Repetição for e foreach.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\bin\Debug\net6.0\Repetição for e foreach.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\refint\Repetição for e foreach.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\Repetição for e foreach.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Repetição for e foreach\obj\Debug\net6.0\ref\Repetição for e foreach.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\bin\Debug\net6.0\EntradadeDados.exe
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\bin\Debug\net6.0\EntradadeDados.deps.json
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\bin\Debug\net6.0\EntradadeDados.runtimeconfig.json
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\bin\Debug\net6.0\EntradadeDados.dll
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\bin\Debug\net6.0\EntradadeDados.pdb
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.dll
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\refint\EntradadeDados.dll
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.pdb
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\EntradadeDados.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto 1\CursoCSharp\EntradadeDados\obj\Debug\net6.0\ref\EntradadeDados.dll

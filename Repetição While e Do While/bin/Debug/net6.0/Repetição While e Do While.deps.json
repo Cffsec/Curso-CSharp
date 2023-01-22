@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Repetição While e Do While/1.0.0": {
+        "runtime": {
+          "Repetição While e Do While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repetição While e Do While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

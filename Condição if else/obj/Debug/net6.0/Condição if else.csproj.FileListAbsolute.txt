@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\bin\Debug\net6.0\Condição if else.exe
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\bin\Debug\net6.0\Condição if else.deps.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\bin\Debug\net6.0\Condição if else.runtimeconfig.json
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\bin\Debug\net6.0\Condição if else.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\bin\Debug\net6.0\Condição if else.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.AssemblyInfo.cs
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\refint\Condição if else.dll
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.pdb
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\Condição if else.genruntimeconfig.cache
+C:\Users\User\Desktop\Projeto 1 Csharp\CursoCSharp\Condição if else\obj\Debug\net6.0\ref\Condição if else.dll
